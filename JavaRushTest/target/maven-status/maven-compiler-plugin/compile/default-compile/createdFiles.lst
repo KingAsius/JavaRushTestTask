@@ -1,0 +1,4 @@
+com\springapp\mvc\entity\UserEntity.class
+com\springapp\mvc\utils\HibernateSessionFactory.class
+com\springapp\mvc\MainController.class
+com\springapp\mvc\service\UserService.class
